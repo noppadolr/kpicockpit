@@ -104,7 +104,7 @@
             <FormType>dfm</FormType>
         </DCCReference>
         <DCCReference Include="Unit1.pas">
-            <Form>Form1</Form>
+            <Form>Formtest</Form>
             <FormType>dfm</FormType>
         </DCCReference>
         <BuildConfiguration Include="Release">
